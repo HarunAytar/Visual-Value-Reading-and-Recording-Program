@@ -1,0 +1,7 @@
+ultralytics
+easyocr
+Pillow
+numpy
+pandas
+customtkinter
+openpyxl
